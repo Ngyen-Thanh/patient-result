@@ -1,0 +1,10 @@
+E:\C_Sharp\socket\patient\patient\bin\Debug\patient.exe.config
+E:\C_Sharp\socket\patient\patient\bin\Debug\patient.exe
+E:\C_Sharp\socket\patient\patient\bin\Debug\patient.pdb
+E:\C_Sharp\socket\patient\patient\obj\Debug\patient.csproj.AssemblyReference.cache
+E:\C_Sharp\socket\patient\patient\obj\Debug\patient.Form1.resources
+E:\C_Sharp\socket\patient\patient\obj\Debug\patient.Properties.Resources.resources
+E:\C_Sharp\socket\patient\patient\obj\Debug\patient.csproj.GenerateResource.cache
+E:\C_Sharp\socket\patient\patient\obj\Debug\patient.csproj.CoreCompileInputs.cache
+E:\C_Sharp\socket\patient\patient\obj\Debug\patient.exe
+E:\C_Sharp\socket\patient\patient\obj\Debug\patient.pdb
